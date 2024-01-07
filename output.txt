@@ -1,0 +1,15 @@
+Lights: ['Off', 'Off', 'Off', 'Blue', 'Off', 'Off', 'Off', 'Blue', 'Off', 'Off', 'Off', 'Blue']
+Erase mode: False
+Clipboard entry: initial clipboard
+Extra Clipboard entry A: 
+Extra Clipboard entry B: 
+Extra Clipboard entry C: 
+Extra Clipboard entry D: four
+Extra Clipboard entry E: 
+Extra Clipboard entry F: 
+Extra Clipboard entry G: 
+Extra Clipboard entry H: eight
+Extra Clipboard entry I: 
+Extra Clipboard entry J: 
+Extra Clipboard entry K: 
+Extra Clipboard entry L: twelve
